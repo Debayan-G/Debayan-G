@@ -1,5 +1,10 @@
 # Hi, I'm Debayan 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img src="./profile-card.svg" alt="Debayan Ghosh — Computer Science (AI & ML), Game Developer">
+</picture>
+
 <p align="center">
   <b>Computer Science Student (AI & ML) · Aspiring Software Developer · AI/ML Enthusiast</b>
 </p>
