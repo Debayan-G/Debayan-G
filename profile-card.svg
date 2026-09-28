@@ -285,7 +285,7 @@
       </circle>
     </g>
 
-    <!-- Reference portrait supplied by user -->
+    <!-- Dot-matrix portrait -->
     <defs>
       <clipPath id="portrait-clip">
         <rect x="10" y="24" width="450" height="460" rx="8"/>
@@ -293,9 +293,9 @@
     </defs>
 
     <g clip-path="url(#portrait-clip)">
-      <circle cx="235" cy="254" r="132" fill="#071b2e" stroke="#00f3ff" stroke-width="3" filter="url(#intense-glow)"/><text x="235" y="282" text-anchor="middle" font-family="Consolas, monospace" font-size="86" font-weight="700" fill="#e2f1ff" filter="url(#cyan-glow)">DG</text>
+      <image x="10" y="24" width="450" height="460" preserveAspectRatio="xMidYMid slice" href="./profile-portrait.png"/>
 
-      <!-- Neon scan flowing over the real portrait -->
+      <!-- Neon scan flowing over the portrait -->
       <rect x="10" y="24" width="450" height="2"
             fill="url(#flow-gradient)" filter="url(#flow-glow)" opacity=".8">
         <animate attributeName="y"
