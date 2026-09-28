@@ -1,7 +1,7 @@
 # Hi, I'm Debayan 👋
 
 <p align="center">
-  <img src="./profile-card.svg" alt="Animated profile card for Debayan Ghosh" width="100%" />
+  <img src="profile-card.svg" alt="Animated profile card for Debayan Ghosh" width="100%" />
 </p>
 
 <p align="center">
